@@ -1,24 +1,5 @@
-# README
+# Re-Former
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Re-Former is a project that creates multiples forms in Ruby on Rails using various methods: HTML forms, Rails form with `form_tag`, and Rails forms with `form_for` tag. This project also has a feature for displaying error messages on failed validations.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created as part of The Odin Project's [curriculum](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms?ref=lnav#project-1-bare-metal-forms-and-helpers)
